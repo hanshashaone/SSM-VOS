@@ -1,0 +1,2 @@
+# SSM-VOS
+A PyTorch implementation of our paper [Separable Structure Modeling for Semi-supervised Video Object Segmentation](https://ieeexplore.ieee.org/document/9356697) by [Wencheng Zhu](https://woshiwencheng.github.io/), [Jiahao Li](https://github.com/li-plus), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), and [Jie Zhou](http://www.au.tsinghua.edu.cn/info/1078/1635.htm). Published in [IEEE Transactions on Circuits and Systems for Video Technology]
